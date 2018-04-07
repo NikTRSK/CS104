@@ -1,0 +1,12 @@
+# Qt generated files
+example1_image/*.pro
+example2_popup/*.pro
+example3_form_list/*.pro
+*/Makefile
+*/moc_*.cpp
+
+# Executables
+example1_image/example1_image
+example2_popup/example2_popup
+example3_form_list/example3_form_list
+pokedex/pokedex
