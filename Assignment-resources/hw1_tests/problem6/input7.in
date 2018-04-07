@@ -1,0 +1,7 @@
+3
+MOVEIN 2 10
+MOVEIN 1 12
+OBTAIN 1 5 5 Sam Frodo Gimli Legolas Gandalf
+OUTPUT 1 5
+MOVEOUT 2
+OUTPUT 1 5
